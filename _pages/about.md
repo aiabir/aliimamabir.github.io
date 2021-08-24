@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc Computer Science & Engineering, Islamic University of Technology, Bangladesh, 2015
+* B.Sc Computer Science and Engineering, Islamic University of Technology, Bangladesh, 2015
 
 Work experience
 ======
