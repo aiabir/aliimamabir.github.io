@@ -1,4 +1,4 @@
 
 
 
-[Download my CV paper here](https://amithasanarovi.github.io/files/AmitHasanAroviCV.pdf)
+[Download my CV here](https://amithasanarovi.github.io/files/AmitHasanAroviCV.pdf)
