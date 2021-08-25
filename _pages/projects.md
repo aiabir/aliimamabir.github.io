@@ -9,9 +9,9 @@ redirect_from:
 
 ## Professional Projects
 
-* **Anvil EQ™** (https://anvileq.com/Anvil/Default.aspx): Anvil EQ™ is an on-demand equity administration application specifically designed for private companies, their legal advisors, accountants and investors. The basic application facilitates the seamless management of stock and option schedules. Additional standard and custom modules may be added for more complex tasks including stock option expensing (ASC Topic 718) for companies and mark-to-market valuations for funds.This project is being developed using C#, ASP.NET, MSSQL.
+* **Anvil EQ™:** [](https://anvileq.com/Anvil/Default.aspx) Anvil EQ™ is an on-demand equity administration application specifically designed for private companies, their legal advisors, accountants and investors. The basic application facilitates the seamless management of stock and option schedules. Additional standard and custom modules may be added for more complex tasks including stock option expensing (ASC Topic 718) for companies and mark-to-market valuations for funds.This project is being developed using C#, ASP.NET, MSSQL.
 
-* **Data Collector** (https://drive.google.com/file/d/1LcZfoKYR2iPHpIYYaPTuKtd34FGA6SuQ/view?usp=sharing): An iOS and Android based application to collect Image, Video and sensor data for ML based crack and defect detection approach for road condition evaluation. Developed using Dart, Flutter.
+* **Data Collector:** [](https://drive.google.com/file/d/1LcZfoKYR2iPHpIYYaPTuKtd34FGA6SuQ/view?usp=sharing) An iOS and Android based application to collect Image, Video and sensor data for ML based crack and defect detection approach for road condition evaluation. Developed using Dart, Flutter.
 
 
 ## Academic Projects
