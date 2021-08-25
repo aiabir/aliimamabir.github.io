@@ -9,20 +9,12 @@ redirect_from:
 
 ## Professional Projects
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Anvil EQ™ (https://anvileq.com/Anvil/Default.aspx)– Anvil EQ™ is an on-demand equity administration application specifically designed for private companies, their legal advisors, accountants and investors. The basic application facilitates the seamless management of stock and option schedules. Additional standard and custom modules may be added for more complex tasks including stock option expensing (ASC Topic 718) for companies and mark-to-market valuations for funds.This project is being developed using C#, ASP.NET, MSSQL.
 
-## Tips and hints
+* Data Collector (https://drive.google.com/file/d/1LcZfoKYR2iPHpIYYaPTuKtd34FGA6SuQ/view?usp=sharing) –  An iOS and Android based application to collect Image, Video and sensor data for ML based crack and defect detection approach for road condition evaluation. Developed using Dart, Flutter.
+
+
+## Academic Projects
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
