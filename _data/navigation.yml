@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /projects/           
+    url: /projects/
+
+  - title: "Awards"
+    url: /awards/ 
     
   - title: "CV"
     url: https://amithasanarovi.github.io/files/CV_AmitHasanArovi.pdf
