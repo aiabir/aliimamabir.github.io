@@ -4,12 +4,7 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /talks/    
-   
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+    url: /talks/           
     
   - title: "CV"
     url: https://amithasanarovi.github.io/files/CV_AmitHasanArovi.pdf
