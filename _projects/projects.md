@@ -5,6 +5,7 @@ excerpt: "Projects"
 author_profile: true
 redirect_from: 
   - /projects/
+  - /about.html
 ---
 {% include base_path %}
     
