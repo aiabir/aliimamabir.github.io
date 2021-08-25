@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md. Amit Hasan Arovi/HomePage"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Md. Amit Hasan Arovi"
 description              : &description "personal description"
@@ -198,7 +198,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       comments: true
   # _portfolio
