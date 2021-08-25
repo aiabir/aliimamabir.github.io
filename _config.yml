@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HomePage"
+title                    : "Amit's Homepage"
 title_separator          : "-"
 name                     : &name "Md. Amit Hasan Arovi"
 description              : &description "personal description"
