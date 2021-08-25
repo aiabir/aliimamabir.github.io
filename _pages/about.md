@@ -24,7 +24,7 @@ Work experience
   * Nilavo Technologies Ltd., Bangladesh
   * Duties included: Developing web applications using ASP.NET
 
-* December 2015 – December 2018: Software Engineer Intern
+* November 2014 – December 2014: Software Engineer Intern
   * XeonBD, Bangladesh
   * Duties included: Developing  Android application  
   
