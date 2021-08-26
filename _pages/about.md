@@ -15,8 +15,10 @@ Software Engineer.
 
 Education
 ======
-* 2011 - 2015
-  * B.Sc Computer Science and Engineering, Islamic University of Technology, Bangladesh
+* **Islamic University of Technology**
+B.Sc Computer Science and Engineering
+  * 2011 - 2015
+  * CGPA: 3.58/4.00
 
 Work experience
 ======

@@ -24,9 +24,9 @@ redirect_from:
 
 **Speech based interaction app for the visually impaired:**  Using an android phone as a remote, users can use text editors on computers, listen to music, read E-books and search files. Developed for thesis implementation using android, Java Swing, Google Speech.
 
-**Railway Ticket Management System**  Web application for processing Railway tickets. Developed using C#, ASP.NET, MSSQL.
+**Railway Ticket Management System:**  Web application for processing Railway tickets. Developed using C#, ASP.NET, MSSQL.
 
-**General Knowledge Enhancer**  An Android smartphone application that allows students to develop and enhance their general knowledge about Science, Math and International affairs.
+**General Knowledge Enhancer:**  An Android smartphone application that allows students to develop and enhance their general knowledge about Science, Math and International affairs.
 
 
 
