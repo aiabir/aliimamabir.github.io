@@ -9,6 +9,10 @@ redirect_from:
 ---
 {% include base_path %}
 
+About Me
+======
+Software Engineer.
+
 Education
 ======
 * 2011 - 2015
