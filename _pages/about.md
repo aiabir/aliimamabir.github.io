@@ -9,16 +9,18 @@ redirect_from:
 ---
 {% include base_path %}
 
+"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." - **James Cameron**
+
 About Me
 ======
 This is Md. Amit Hasan Arovi, Software Engineer at Nilavo Technologies Ltd., Bangladesh. An avid problem solver with critical thinking, analytical and exceptional interpersonal communication skills.
-"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." - **James Cameron**
+
 
 
 Education
 ======
 * **Islamic University of Technology**
-B.Sc Computer Science and Engineering
+\nB.Sc Computer Science and Engineering
   * 2011 - 2015
   * CGPA: 3.58/4.00
 
