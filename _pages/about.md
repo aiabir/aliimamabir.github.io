@@ -11,7 +11,9 @@ redirect_from:
 
 About Me
 ======
-Software Engineer.
+This is Md. Amit Hasan Arovi, Software Engineer at Nilavo Technologies Ltd., Bangladesh. An avid problem solver with critical thinking, analytical and exceptional interpersonal communication skills.
+"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." - **James Cameron**
+
 
 Education
 ======
