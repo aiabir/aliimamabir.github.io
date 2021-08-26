@@ -20,7 +20,7 @@ This is Md. Amit Hasan Arovi, Software Engineer at Nilavo Technologies Ltd., Ban
 Education
 ======
 * **Islamic University of Technology**
-\nB.Sc Computer Science and Engineering
+  * B.Sc Computer Science and Engineering
   * 2011 - 2015
   * CGPA: 3.58/4.00
 
