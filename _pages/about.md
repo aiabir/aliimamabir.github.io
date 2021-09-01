@@ -59,4 +59,4 @@ Technical Skills
     
 Service and leadership
 ======
-* Worked in Islamic University of Technology Computer Science Society
+* Worked in Islamic University of Technology Computer Society (IUTCS) as an executive member
