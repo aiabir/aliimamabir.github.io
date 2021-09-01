@@ -13,7 +13,7 @@ redirect_from:
 
 About Me
 ======
-This is Md. Amit Hasan Arovi, Software Engineer at Nilavo Technologies Ltd., Bangladesh. An avid problem solver with critical thinking, analytical and exceptional interpersonal communication skills. I spend my free time learning and researching about various topics in Computer Science which I find fascinating. My hobbies include reading story books and playing football (soccer) (I used to play as a left winger). I am planning to pursue my Ph.D. in Computer Science and looking forward to it.
+This is Md. Amit Hasan Arovi, Software Engineer at Nilavo Technologies Ltd., Bangladesh. An avid problem solver with critical thinking, analytical and exceptional interpersonal communication skills. I spend my free time learning and researching about various topics in Computer Science which I find fascinating. My hobbies include reading story books and playing football (soccer) (I used to play as a right winger). Currently, I am planning to pursue my Ph.D. in Computer Science and looking for potential research opportunities.
 
 
 
