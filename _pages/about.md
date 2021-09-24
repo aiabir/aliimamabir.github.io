@@ -28,11 +28,11 @@ Work experience
 ======
 * January 2019 – Present: Software Engineer
   * Nilavo Technologies Ltd., Bangladesh
-  * Duties included: Developing web applications using ASP.NET
+  * Duties included: Developing equity administration web application using ASP.NET
 
 * December 2015 – December 2018: Junior Software Engineer
   * Nilavo Technologies Ltd., Bangladesh
-  * Duties included: Developing web applications using ASP.NET
+  * Duties included: Developing equity administration web application using ASP.NET
 
 * November 2014 – December 2014: Software Engineer Intern
   * XeonBD, Bangladesh
@@ -59,4 +59,4 @@ Technical Skills
     
 Service and leadership
 ======
-* Worked in Islamic University of Technology Computer Science Society
+* Worked in Islamic University of Technology Computer Society (IUTCS) as an executive member
