@@ -26,13 +26,15 @@ Education
 
 Work experience
 ======
-* January 2019 – Present: Software Engineer
+* January 2022 – Present: Senior Software Engineer
   * Nilavo Technologies Ltd., Bangladesh
-  * Duties included: Developing equity administration web application using ASP.NET
+  * Duties included: Developing equity administration web application using ASP.NET, conducting research and development on available technologies for incorporating new features and fixing issues, and performing security audits on existing systems to identify security flaws and apply effective fixes to ensure optimal security
+  
+* January 2019 – December 2021: Software Engineer
+  * Nilavo Technologies Ltd., Bangladesh
 
 * December 2015 – December 2018: Junior Software Engineer
   * Nilavo Technologies Ltd., Bangladesh
-  * Duties included: Developing equity administration web application using ASP.NET
 
 * November 2014 – December 2014: Software Engineer Intern
   * XeonBD, Bangladesh
