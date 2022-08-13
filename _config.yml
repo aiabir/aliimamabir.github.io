@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amit's Homepage"
+title                    : "Abir's Homepage"
 title_separator          : "-"
-name                     : &name "Md. Amit Hasan Arovi"
+name                     : &name "Ali Imam Abir"
 description              : &description "personal description"
 url                      : https://amithasanarovi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AmitHasanArovi/AmitHasanArovi.github.io"
+repository               : "aiabir/aliimamabir.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Md. Amit Hasan Arovi"
-  avatar           : "Amit.jpg"
-  bio              : "Software Engineer"
+  name             : "Ali Imam Abir"
+  avatar           : "convo_night.jpg"
+  bio              : "Software Quality Assurance Engineer"
   location         : "Dhaka, Bangladesh"
-  googlescholar    : "https://scholar.google.com/citations?user=ZC8DBFkAAAAJ&hl=en&oi=ao"
-  email            : "amit@iut-dhaka.edu"
-  github           : "AmitHasanArovi"
-  linkedin         : "md-amit-hasan-arovi"
-  twitter          : "AroviMd"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=5&user=Ggy1w3sAAAAJ"
+  email            : "aliimamabir@iut-dhaka.edu"
+  github           : "aiabir"
+  linkedin         : "aiabir"
+  twitter          : "AAbir10"
 
 
 # Reading Files
