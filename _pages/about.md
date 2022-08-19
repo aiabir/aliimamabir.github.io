@@ -27,19 +27,19 @@ Education
 Work experience
 ======
 * **July 2020 – Present : Software Quality Assurance Engineer**
- * Nilavo Technologies Ltd. (Offshore facility of Biscom Inc, Boston, USA)
- * Duties included: R&D on different automation tools (Selenium, Cypress, Appium, Rspec, Protractor, etc.). Prepare different test environment (Windows and Linux Server, Docker, CI/CD pipeline with Jenkins). R&D on different security testing related tools (Burp, Acunetix, SQLMap etc.). Prepare test strategy, test plan and Perform Security & Stress testing. Collaborate with Dev Team and Lead QA internship program.
+  * Nilavo Technologies Ltd. (Offshore facility of Biscom Inc, Boston, USA)
+  * Duties included: R&D on different automation tools (Selenium, Cypress, Appium, Rspec, Protractor, etc.). Prepare different test environment (Windows and Linux Server, Docker, CI/CD pipeline with Jenkins). R&D on different security testing related tools (Burp, Acunetix, SQLMap etc.). Prepare test strategy, test plan and Perform Security & Stress testing. Collaborate with Dev Team and Lead QA internship program.
   
 * **September 2017 – June 2020 : Junior Software Quality Assurance Engineer**
-  * Nilavo Technologies Ltd. (Offshore facility of Biscom Inc, Boston, USA)
+   * Nilavo Technologies Ltd. (Offshore facility of Biscom Inc, Boston, USA)
    * Duties included: Bug verification, validation and Reporting. Writing test script, test cases and test plan. Test case automation using Selenium (Ruby, JavaScript). Load test using JMeter. Provide improvement ideas. 
 
 * **January 2017 – August 2017 : Lecturer**
-* Uttara University, Bangladesh
- * Duties included: Taught a total of 3 undergraduate courses, (System analysis and Design, Digital Logic Design and C). Also took the lab classes. 
+  * Uttara University, Bangladesh
+  * Duties included: Taught a total of 3 undergraduate courses, (System analysis and Design, Digital Logic Design and C). Also took the lab classes. 
  
 * **October 2015 – December 2015 : Software Quality Assurance Engineer Intern**
- * Nilavo Technologies Ltd. (Offshore facility of Biscom Inc, Boston, USA)
+  * Nilavo Technologies Ltd. (Offshore facility of Biscom Inc, Boston, USA)
   * Duties included: Test Automation using Selenium (Ruby). Test on Firefox, IE, Chrome, Safari, Opera browser. Writing test cases and provide improvement ideas.
   
 Technical Skills
