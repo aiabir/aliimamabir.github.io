@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 2011
-•	Runner up in Regional Mathematics Olympiad in 2011. 
+Runner up in Regional Mathematics Olympiad in 2011. 
 
 ## 2015
 
