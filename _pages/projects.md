@@ -9,24 +9,27 @@ redirect_from:
 
 ## Professional Projects
 
-* **Anvil EQ™:**  Anvil EQ™ is an on-demand equity administration application specifically designed for private companies, their legal advisors, accountants and investors. The basic application facilitates the seamless management of stock and option schedules. Additional standard and custom modules may be added for more complex tasks including stock option expensing (ASC Topic 718) for companies and mark-to-market valuations for funds.This project is being developed using C#, ASP.NET, MSSQL.
+* **Biscom Cloud and On-prem Secure File Transfer™:**  Both on-prem and cloud solutions support simple, secure, and fast file transfer – it all depends on organization needs. For extremely large terabyte-size files and automation utilities, with granular administrative control and configuration, choose Biscom On-prem Secure File Transfer. For fast adoption, broad support for all browsers and mobile devices as a pure SaaS offering and no software on-site, Biscom Cloud SFT may be a better fit. Either way, they provide e end-to-end security with FIPS 140-2 certified encryption at rest, full tracking and reporting, and notifications when messages and files are opened and downloaded. 
+[(Biscom SFT)](https://www.biscom.com/products/secure-file-transfer-solutions/)
+
+* **Biscom Enterprise Cloud and On-prem Fax Solutions™:**  The goal is to transform companies from legacy fax machines to pure digital delivery of faxes with automation, security, and reporting for companies that need to understand how information flows into and out of their organization. A modular architecture that supports pluggable add-ons such as policy-based and intelligent routing, enterprise fax management, real time dashboards, OCR and bar code scanning, and other automated document processing. Developers can take advantage of REST APIs to tightly integrate back end systems such as EMRs, CRM, and ERP – to make fax workflows seamless.
+[(Biscom FA)](https://www.biscom.com/products/fax-solutions/)
+
+* **Anvil EQ™:**  Anvil EQ™ is an on-demand equity administration application specifically designed for private companies, their legal advisors, accountants and investors. The basic application facilitates the seamless management of stock and option schedules. Additional standard and custom modules may be added for more complex tasks including stock option expensing (ASC Topic 718) for companies and mark-to-market valuations for funds.
 [(Anvil EQ)](https://anvileq.com/Anvil/Default.aspx)
 
-* **Data Collector:**  An iOS and Android based application to collect Image, Video and sensor data for ML based crack and defect detection approach for road condition evaluation. Developed using Dart, Flutter.
-[(Data Collector)](https://drive.google.com/file/d/1LcZfoKYR2iPHpIYYaPTuKtd34FGA6SuQ/view?usp=sharing)
 
 
 ## Academic Projects
 
-**Eye Pointer:**  A software for the handicapped with non-working hands to enable them to use computers. Developed using C#, .NET Framework, Emgu CV, Visual Studio. [(Eye Pointer)](https://www.youtube.com/watch?v=ZZeTRWBsB24)
+**Durjoy Mobile Controlled Rescue Robot:**  Android app which control the robot. Live streaming from the camera attached to the robot.
 
-**Pointer Security:**  A mobile phone application for android and windows to ensure security of computers. Allows users to stream a webcam and monitor the screen of the computer, locking or shutting down the computer. Developed using android/windows Phone 8.1.
+**Wallet:**  An android application which keeps track of all the daily income and expense, Plans for future expansion and  Graph of income and expense of last 1 month 
 
-**Speech based interaction app for the visually impaired:**  Using an android phone as a remote, users can use text editors on computers, listen to music, read E-books and search files. Developed as a part of the undergraduate thesis and implemented using android, Java Swing, Google Speech.
+**Railway Ticket Management System:**  Web application for processing Railway tickets.
 
-**Railway Ticket Management System:**  Web application for processing Railway tickets. Developed using C#, ASP.NET, MSSQL.
+**Voice Changer:**  Frequency of voice was changed in different range for different voice using MATLAB
 
-**General Knowledge Enhancer:**  An Android smartphone application that allows students to develop and enhance their general knowledge about Science, Math and International affairs.
 
 
 
