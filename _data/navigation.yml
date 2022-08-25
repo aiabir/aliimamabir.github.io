@@ -9,6 +9,9 @@ main:
   - title: "Awards"
     url: /awards/ 
     
-  - title: "CV"
+  - title: "CV (Academic)"
     url: https://aiabir.github.io/aliimamabir.github.io/files/CV_AliImamAbir.pdf
+    
+      - title: "CV (Industry)"
+    url: https://aiabir.github.io/aliimamabir.github.io/files/CV_Abir.pdf
     
